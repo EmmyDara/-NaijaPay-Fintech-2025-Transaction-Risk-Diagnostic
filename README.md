@@ -48,6 +48,16 @@ This project traces operational bottlenecks, KYC friction points, and fraud atta
     *   **Attack Vectors:** Foreign IPs and New Devices show a disproportionate spike in confirmed fraud percentages. 
     *   **Target Channels:** Fraudsters are primarily targeting the **Mobile App (31 cases)** and **Web (30 cases)**. 
 
+### 📸 Dashboard Visuals
+
+**1. Executive Performance Overview**
+![Page 1](page1.png)
+
+**2. Operations & Failure Diagnostics**
+![Page 2](page2.png)
+**3. Risk Intelligence & Fraud Mitigation**
+![Page 3](page3.png)
+
 ---
 
 ## 💡 Strategic Recommendations
@@ -67,7 +77,3 @@ This project traces operational bottlenecks, KYC friction points, and fraud atta
 *   **Validation Rigor:** During the build phase, a sign error was caught in the Net Revenue Retention (NRR) DAX calculation. Rather than publishing an incorrect metric, it was excluded from the visual dashboard pending final validation in the Python environment.
 
 ---
-
-
-
-This is a portfolio-defining project. Submit it with prid
